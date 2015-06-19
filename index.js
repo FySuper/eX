@@ -1,7 +1,6 @@
 ﻿var app = require('./lib/main.js');
-var mysql = require('./mysql.js');
 
-app.baseUrl(__dirname + '/public');
+app.baseUrl('/');
 app.use('/', function (req, res) {
     var params;
     params = req.query.mode || req.body.mode;
