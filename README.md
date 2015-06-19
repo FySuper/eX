@@ -1,2 +1,3 @@
 # eX
-Http Frame
+Http eX  Frame
+Google Style JavaScript Guide
