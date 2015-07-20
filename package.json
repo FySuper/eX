@@ -1,0 +1,25 @@
+{
+  "name": "eX",
+  "version": "1.0.0",
+  "description": "a lighthight http framework",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FySuper/eX.git"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "qv <foru.fy@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FySuper/eX/issues"
+  },
+  "homepage": "https://github.com/FySuper/eX"
+}
